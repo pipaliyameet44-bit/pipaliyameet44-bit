@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,js,html,git,github,figma,vscode,linux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode,react,nodejs,expressjs,mongodb,linux" />
 </p>
 
 ---
